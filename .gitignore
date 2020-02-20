@@ -1,1 +1,5 @@
 /public/
+node_modules
+content/.DS_Store
+.env
+.DS_Store
