@@ -18,9 +18,9 @@
               datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
           </div>
         </header><!-- .post-header -->
-        {{ if .Params.subtitle }}
+        {{ if .Params.MetaDescription }}
         <div class="post-subtitle">
-          {{ .Params.subtitle | safeHTML }}
+          {{ .Params.MetaDescription | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
         <div class="post-content">

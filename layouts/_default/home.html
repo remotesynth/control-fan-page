@@ -17,13 +17,13 @@
                 datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
             </div>
           </header><!-- .post-header -->
-          {{ if $post.Params.thumb_img_path }}
+          {{ if $post.Params.image }}
           <a class="post-thumbnail" href="{{ $post.URL }}">
-            <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
+            <img class="thumbnail" src="{{ $post.Params.image | relURL }}" alt="{{ $post.Params.title }}" />
           </a>
           {{ end }}
           <div class="post-content">
-            <p>{{ $post.Params.excerpt }}</p>
+            <p>{{ $post.Description }}</p>
           </div><!-- .post-content -->
           <p class="read-more">
             <a class="read-more-link" href="{{ $post.URL }}">Keep reading <span class="icon-arrow-right" aria-hidden="true"></span></a>

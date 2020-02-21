@@ -21,7 +21,7 @@
     "sourcebit": "^0.6.0",
     "sourcebit-source-contentful": "^0.6.0",
     "sourcebit-target-hugo": "^0.1.1",
-    "sourcebit-transform-assets": "^0.2.0"
+    "sourcebit-transform-assets": "^0.2.1"
   },
   "devDependencies": {}
 }

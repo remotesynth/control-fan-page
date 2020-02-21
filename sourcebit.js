@@ -13,12 +13,15 @@ module.exports = {
       options: {
         assetPath: function(entry,asset) {
           return [
-            "assets",
+            "static/images",
             [asset.__metadata.id, asset.fileName].join("-")
           ].join("/");
         },
         publicUrl: function(entry,asset,assetPath) {
-          return '/' + assetPath;
+          return [
+            "images",
+            [asset.__metadata.id, asset.fileName].join("-")
+          ].join("/");
         }
       }
     },
