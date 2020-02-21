@@ -3,7 +3,7 @@ title: The Board
 date: 2020-02-04T00:00-05:00
 description: The Board (also known as the Black Pyramid) is an extradimensional being or
   group of beings existing within the Astral Plane.
-image: /assets/59JT3vQU9KGkbXsg6cxYU-Approach_the_Pyramidb.png
+image: images/59JT3vQU9KGkbXsg6cxYU-Approach_the_Pyramidb.png
 layout: post
 ---
 The **Board** (also known as the **Black Pyramid**) is an [extradimensional being](https://control.fandom.com/wiki/Extradimensional_being "Extradimensional being") or group of beings existing within the [Astral Plane](https://control.fandom.com/wiki/Astral_Plane "Astral Plane"). Appearing in the form of an enormous inverted black pyramid, the Board appears to be responsible for selecting the [Director](https://control.fandom.com/wiki/Director_of_the_Federal_Bureau_of_Control "Director of the Federal Bureau of Control") of the [Federal Bureau of Control](https://control.fandom.com/wiki/Federal_Bureau_of_Control "Federal Bureau of Control"), while also possessing various connections to [Objects of Power](https://control.fandom.com/wiki/Objects_of_Power "Objects of Power") within ordinary reality. The true nature and motivations of the Board are unknown.

@@ -4,12 +4,12 @@ date: 2020-02-06T00:00-05:00
 description: "The Federal Bureau of Control (FBC) is a clandestine United States government
   organization tasked with the containment, study, and control
   of paranatural phenomena. "
-image: /assets/6UOEnOoIwTvSNhp2pW1dsu-Federal_Bureau_of_Control_1.jpg
+image: images/6UOEnOoIwTvSNhp2pW1dsu-Federal_Bureau_of_Control_1.jpg
 layout: post
 ---
 The **Federal Bureau of Control** (**FBC**) is a clandestine United States government organization tasked with the containment, study, and control of [paranatural](https://control.fandom.com/wiki/Paranatural "Paranatural") phenomena. Operating on a national scale, the FBC investigates events and objects which violate the known laws of nature, with the goal of understanding and controlling these elements. The Bureau's headquarters is a mysterious Brutalist skyscraper in New York City known as the [Oldest House](https://control.fandom.com/wiki/Oldest_House "Oldest House"), which exists outside of ordinary reality.
 
-![FBC](/assets/5XF89csDUQ2HoBxiQJjrac-FBC.png)
+![FBC](images/5XF89csDUQ2HoBxiQJjrac-FBC.png)
 
 The FBC is responsible for both the scientific study of paranatural elements and the protection of the nation (and humanity as a whole) from these forces. Among the phenomena studied by the FBC are [Altered World Events](https://control.fandom.com/wiki/AWE "AWE") (AWEs), [Altered Items](https://control.fandom.com/wiki/Altered_Items "Altered Items"), [Objects of Power](https://control.fandom.com/wiki/Object_of_Power "Object of Power"), and other realms and dimensions beyond our own. The Oldest House, itself a paranormal location, serves as a containment and study facility for these types of phenomena.
 

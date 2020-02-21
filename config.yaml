@@ -7,7 +7,6 @@ params:
     logo_img: images/logo.png
     bg_img: images/header-bg.jpg
     has_nav: true
-    has_social: true
   footer:
     content: '&copy; All rights reserved.'
     links:

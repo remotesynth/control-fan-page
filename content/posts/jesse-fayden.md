@@ -5,7 +5,7 @@ description: Jesse Faden is the current Director of the Federal Bureau of Contro
   answers about her mysterious past, Jesse sought out the Federal Bureau of
   Control, a secret government agency tasked with investigating unexplainable
   phenomena.
-image: /assets/1fgYLE6m3QZ8hDIQ08Z7NM-Jes2_(2).jpg
+image: images/1fgYLE6m3QZ8hDIQ08Z7NM-Jes2_(2).jpg
 layout: post
 ---
 **Jesse Faden** is the current [Director of the Federal Bureau of Control](https://control.fandom.com/wiki/Director_of_the_Federal_Bureau_of_Control "Director of the Federal Bureau of Control"). Seeking answers about her mysterious past, Jesse sought out the Federal Bureau of Control, a secret government agency tasked with investigating unexplainable phenomena. As Jesse arrived at the Bureau's headquarters, the [Oldest House](https://control.fandom.com/wiki/Oldest_House "Oldest House"), it was suddenly [invaded](https://control.fandom.com/wiki/Hiss_invasion "Hiss invasion") by a hostile force known only as the [Hiss](https://control.fandom.com/wiki/Hiss "Hiss"). In the chaos, Jesse was suddenly made the FBC's new Director after [the previous Director](https://control.fandom.com/wiki/Zachariah_Trench "Zachariah Trench")'s death, and tasked with fighting back against the Hiss and regaining control over the Oldest House.

@@ -3,7 +3,7 @@
   {{ if eq .Params.hide_header true }}
     {{ partial "header_alt.html" . }}
   {{ else }}
-    {{ $include_dict := dict "Site" .Site "page" . "img_path" .Params.content_img_path }}
+    {{ $include_dict := dict "Site" .Site "page" . "img_path" .Params.image }}
     {{ partial "header.html" $include_dict }}
   {{ end }}
 
@@ -18,9 +18,9 @@
               datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
           </div>
         </header><!-- .post-header -->
-        {{ if .Params.MetaDescription }}
+        {{ if .Params.Description }}
         <div class="post-subtitle">
-          {{ .Params.MetaDescription | safeHTML }}
+          {{ .Params.Description | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
         <div class="post-content">
