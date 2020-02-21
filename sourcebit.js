@@ -19,7 +19,7 @@ module.exports = {
         },
         publicUrl: function(entry,asset,assetPath) {
           return [
-            "images",
+            "/images",
             [asset.__metadata.id, asset.fileName].join("-")
           ].join("/");
         }

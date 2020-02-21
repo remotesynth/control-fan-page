@@ -4,7 +4,7 @@ date: 2020-02-17
 description: The Hiss is a hostile paranatural force of resonance that invaded the Oldest
   House on October 29, 2019, resulting in the near-destruction of the Federal
   Bureau of Control.
-image: images/6Ok66GuBbNEPCCpKSf193V-Ritual_Room_-_Control.jpg
+image: /images/6Ok66GuBbNEPCCpKSf193V-Ritual_Room_-_Control.jpg
 layout: post
 ---
 The **Hiss** is a hostile [paranatural](https://control.fandom.com/wiki/Paranatural "Paranatural") force of [resonance](https://control.fandom.com/wiki/Resonance "Resonance") that invaded the [Oldest House](https://control.fandom.com/wiki/Oldest_House "Oldest House") on [October 29, 2019](https://control.fandom.com/wiki/Hiss_invasion "Hiss invasion"), resulting in the near-destruction of the [Federal Bureau of Control](https://control.fandom.com/wiki/Federal_Bureau_of_Control "Federal Bureau of Control"). Originating from an alternate dimension, the Hiss influenced FBC Director [Zachariah Trench](https://control.fandom.com/wiki/Zachariah_Trench "Zachariah Trench") into unleashing it using the [Slide Projector](https://control.fandom.com/wiki/Slide_Projector "Slide Projector") [Object of Power](https://control.fandom.com/wiki/Object_of_Power "Object of Power"). The Hiss's source of resonance was cut off by [Jesse Faden](https://control.fandom.com/wiki/Jesse_Faden "Jesse Faden") when she deactivated the Projector; however, the possessed Hiss agents still lingered in the Oldest House, continuing to pose a major threat.
