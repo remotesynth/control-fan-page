@@ -4,3 +4,5 @@ command = "./stackbit-build.sh"
 
   [build.environment]
   HUGO_VERSION = "0.47"
+[dev]
+  command = "npm run serve"
