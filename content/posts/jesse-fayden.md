@@ -1,6 +1,6 @@
 ---
 title: Jesse Fayden
-date: 2020-02-05T00:00-05:00
+date: 2020-02-19
 description: Jesse Faden is the current Director of the Federal Bureau of Control. Seeking
   answers about her mysterious past, Jesse sought out the Federal Bureau of
   Control, a secret government agency tasked with investigating unexplainable

@@ -1,6 +1,6 @@
 ---
 title: The Hiss
-date: 2020-02-03T00:00-05:00
+date: 2020-02-17
 description: The Hiss is a hostile paranatural force of resonance that invaded the Oldest
   House on October 29, 2019, resulting in the near-destruction of the Federal
   Bureau of Control.

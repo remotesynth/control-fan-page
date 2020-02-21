@@ -1,6 +1,6 @@
 ---
 title: Federal Bureau of Control
-date: 2020-02-06T00:00-05:00
+date: 2020-02-20
 description: "The Federal Bureau of Control (FBC) is a clandestine United States government
   organization tasked with the containment, study, and control
   of paranatural phenomena. "

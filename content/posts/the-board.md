@@ -1,6 +1,6 @@
 ---
 title: The Board
-date: 2020-02-04T00:00-05:00
+date: 2020-02-18
 description: The Board (also known as the Black Pyramid) is an extradimensional being or
   group of beings existing within the Astral Plane.
 image: images/59JT3vQU9KGkbXsg6cxYU-Approach_the_Pyramidb.png
