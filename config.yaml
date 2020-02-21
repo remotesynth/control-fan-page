@@ -8,7 +8,7 @@ params:
     bg_img: images/header-bg.jpg
     has_nav: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: 'Content courtesy of the [Control Wiki](https://control.fandom.com/wiki/Control_Wiki).'
     links:
       - text: Made with Stackbit
         url: 'https://www.stackbit.com'
