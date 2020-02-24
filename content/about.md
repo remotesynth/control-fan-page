@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Control
 subtitle: Control is a third-person shooter video game created by Remedy Entertainment.
 image: /images/3Az0BHr8ExoDcOMBbAny9u-Controlmazeproper.jpg
 menu:
