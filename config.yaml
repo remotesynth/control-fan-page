@@ -1,17 +1,17 @@
-title: Stackbit Fjord Theme
+title: Control Fan Page
 baseURL: /
 params:
   header:
-    title: Fjord
-    tagline: Minimal and clean blog theme
+    title: Control
+    tagline: Discover an unknown world.
     logo_img: images/logo.png
     bg_img: images/header-bg.jpg
     has_nav: true
   footer:
     content: 'Content courtesy of the [Control Wiki](https://control.fandom.com/wiki/Control_Wiki).'
     links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+      - text: Made with Sourcebit
+        url: 'https://github.com/stackbithq/sourcebit'
         new_window: true
   palette: yellow
 disableKinds:
