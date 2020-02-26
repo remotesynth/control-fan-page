@@ -40,7 +40,7 @@ module.exports = {
           const { createdAt = '', modelName, projectId, source } = meta;
           
           if (modelName === 'about' && projectId === 'pyifz91mcau0' && source === 'sourcebit-source-contentful') {
-            const { __metadata, 'body': content, layout, ...frontmatterFields } = entry;
+            const { __metadata = {}, 'body': content, layout, ...frontmatterFields } = entry;
           
             return {
               content: {
@@ -53,7 +53,7 @@ module.exports = {
           }
           
           if (modelName === 'blogPost' && projectId === 'pyifz91mcau0' && source === 'sourcebit-source-contentful') {
-            const { __metadata, 'body': content, layout, ...frontmatterFields } = entry;
+            const { __metadata = {}, 'body': content, layout, ...frontmatterFields } = entry;
           
             return {
               content: {
